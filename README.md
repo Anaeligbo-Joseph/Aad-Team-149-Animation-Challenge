@@ -6,7 +6,7 @@ Google Africa Developer Scholarship Phase II
 Animations in five (5) different app scenarios. 
 
 ##For app test
-1. Download apk file from the github repository. (github.com/anaeligbojoseph/Journal test app)
+1. Download apk file from the github repository. (github.com/anaeligbojoseph/Aad-Team-149-Animation-Challenge)
 2. Install the apk on mobile phone.
 3. Accept internet access permission if prompted to.
 
