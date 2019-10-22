@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/love_heart_svg" android:duration="300"/>
+    <item android:drawable="@drawable/blank" android:duration="300"/>
+    <item android:drawable="@drawable/love_heart_svg_2" android:duration="300"/>
+    <item android:drawable="@drawable/blank" android:duration="300"/>
+    <item android:drawable="@drawable/love_heart_svg_3" android:duration="300"/>
+    <item android:drawable="@drawable/blank" android:duration="300"/>
+    <item android:drawable="@drawable/love_heart_svg_4" android:duration="300"/>
+    <item android:drawable="@drawable/blank" android:duration="300"/>
+
+</animation-list>
